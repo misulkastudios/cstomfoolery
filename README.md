@@ -1,2 +1,20 @@
-# cstomfoolery
-This is a collection of all of our games for computer science class, made simple, made entertaining. Mostly composed of BATCH and python and some HTML perhaps, mostly plug-and-play languages that dont require admin rights to run (unlike .exe depending on your schools/works policy)
+
+# C(omputer) S(cience) Tomfoolery
+
+A collection of games and utils for boring CS lessons!
+
+
+## Installation
+
+The installation is... non existant! Its plug-and-play, mostly...
+
+```bash
+Download the needed file
+Double-click It
+Tadaaaaaaaaa! Its ready!
+```
+    
+## Feedback
+
+Remember! This is always open-source! If you feel like you can improve something, go ahead! We believe in you!
+
