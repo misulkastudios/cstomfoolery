@@ -9,7 +9,7 @@ A collection of games and utils for boring CS lessons!
 The installation is... non existant! Its plug-and-play, mostly...
 
 ```bash
-Download the needed file
+Download the needed file (sometimes the file itself needs another folder or file to function properly, so be careful with that)
 Double-click It
 Tadaaaaaaaaa! Its ready!
 ```
